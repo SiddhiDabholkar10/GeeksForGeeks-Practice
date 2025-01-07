@@ -31,11 +31,13 @@ class gfg {
 class Solution {
     static boolean searchInSorted(int arr[], int k) {
         // Your code here
-        int n = arr.length;
-        for(int i=0;i<n;i++){
-            if(k == arr[i]){
-                return true;
-            }
+        int left = 0;
+        int right = arr.length - 1;
+        while(left<=right){
+            if (arr[left] == k) return true;
+            if (arr[right] == k) return true;
+            left ++;
+            right --;
         }
         return false;
     }
