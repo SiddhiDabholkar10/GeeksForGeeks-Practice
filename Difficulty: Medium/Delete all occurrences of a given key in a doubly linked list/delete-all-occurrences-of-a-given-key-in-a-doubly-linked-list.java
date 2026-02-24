@@ -32,7 +32,9 @@ class Solution {
             curr = curr.next; // always advance
         }
 
-        
+        // Ensure new head.prev is null (important if head changed)
+        if (head != null) head.prev = null;
+
         return head;
         
         
