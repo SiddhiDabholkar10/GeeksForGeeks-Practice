@@ -6,11 +6,12 @@ class Solution {
 
         Map<Integer,Integer> xorMap = new HashMap<>();
         xorMap.put(0, 1);
-        for(int i=0;i<arr.length;i++){
-            XOR = XOR ^ arr[i];
-            int x = XOR ^ k;
-            if(xorMap.containsKey(x)){
-                count += xorMap.get(x);
+        for(int num:arr){
+            XOR = XOR ^ num;
+            int prefix = XOR ^ k;
+            
+            if(xorMap.containsKey(prefix)){
+                count += xorMap.get(prefix);
             }
             xorMap.put(XOR, xorMap.getOrDefault(XOR,0)+1);
             
