@@ -7,15 +7,21 @@ class Node:
 '''
 
 class Solution:
-    def preOrderHelper(self,root,arr):
-        if root is None:
-            return
-        arr.append(root.data)
-        self.preOrderHelper(root.left,arr)
-        self.preOrderHelper(root.right,arr)
-        
     def preOrder(self, root):
     # code here
-        arr = []
-        self.preOrderHelper(root,arr)
-        return arr
+    
+        result = []
+        if root is None:
+            return result
+        st = [root]
+        
+        while st:
+            curr = st.pop()
+            result.append(curr.data)
+            if curr.right:
+                st.append(curr.right)
+            if curr.left:
+                st.append(curr.left)
+        return result
+            
+    
