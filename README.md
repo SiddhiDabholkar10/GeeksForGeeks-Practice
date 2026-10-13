@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 0 | 0 | 0 | 0 | - |
-| GeeksforGeeks | 6 | 0 | 3 | 2 | 1 |
-| **Total** | **6** | **0** | **3** | **2** | **1** |
+| GeeksforGeeks | 7 | 0 | 3 | 2 | 2 |
+| **Total** | **7** | **0** | **3** | **2** | **2** |
 
 ## Solved Problems
 
@@ -21,4 +21,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 4 | [Burning Tree](https://practice.geeksforgeeks.org/problems/burning-tree/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_BurningTree.java) |
 | 5 | [Serialize and Deserialize a Binary Tree](https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_SerializeAndDeserializeABinaryTree.java) |
 | 6 | [Inorder Traversal](https://practice.geeksforgeeks.org/problems/inorder-traversal/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_InorderTraversal.java) |
+| 7 | [Inorder Traversal](https://practice.geeksforgeeks.org/problems/inorder-traversal/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_InorderTraversal.py) |
 <!-- COMMITDSA_END -->
