@@ -5,11 +5,11 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 ## Statistics
 
-| Platform | Total Solved | Easy | Medium | Hard |
-| --- | --- | --- | --- | --- |
-| LeetCode | 0 | 0 | 0 | 0 |
-| GeeksforGeeks | 5 | 0 | 3 | 2 |
-| **Total** | **5** | **0** | **3** | **2** |
+| Platform | Total Solved | Easy | Medium | Hard | Basic/School |
+| --- | --- | --- | --- | --- | --- |
+| LeetCode | 0 | 0 | 0 | 0 | - |
+| GeeksforGeeks | 6 | 0 | 3 | 2 | 1 |
+| **Total** | **6** | **0** | **3** | **2** | **1** |
 
 ## Solved Problems
 
@@ -20,4 +20,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 3 | [Size of a Complete Binary Tree](https://practice.geeksforgeeks.org/problems/count-number-of-nodes-in-a-binary-tree/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SizeOfACompleteBinaryTree.java) |
 | 4 | [Burning Tree](https://practice.geeksforgeeks.org/problems/burning-tree/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_BurningTree.java) |
 | 5 | [Serialize and Deserialize a Binary Tree](https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_SerializeAndDeserializeABinaryTree.java) |
+| 6 | [Inorder Traversal](https://practice.geeksforgeeks.org/problems/inorder-traversal/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_InorderTraversal.java) |
 <!-- COMMITDSA_END -->
