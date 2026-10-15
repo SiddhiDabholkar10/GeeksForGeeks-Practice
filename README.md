@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 0 | 0 | 0 | 0 | - |
-| GeeksforGeeks | 7 | 0 | 3 | 2 | 2 |
-| **Total** | **7** | **0** | **3** | **2** | **2** |
+| GeeksforGeeks | 8 | 0 | 4 | 2 | 2 |
+| **Total** | **8** | **0** | **4** | **2** | **2** |
 
 ## Solved Problems
 
@@ -17,9 +17,10 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | --- | --- | --- | --- | --- | --- |
 | 1 | [Binary Tree from Inorder and Postorder](https://practice.geeksforgeeks.org/problems/tree-from-postorder-and-inorder/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_BinaryTreeFromInorderAndPostorder.java) |
 | 2 | [Maximum Width of Tree](https://practice.geeksforgeeks.org/problems/maximum-width-of-tree/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_MaximumWidthOfTree.java) |
-| 3 | [Size of a Complete Binary Tree](https://practice.geeksforgeeks.org/problems/count-number-of-nodes-in-a-binary-tree/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SizeOfACompleteBinaryTree.java) |
-| 4 | [Burning Tree](https://practice.geeksforgeeks.org/problems/burning-tree/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_BurningTree.java) |
-| 5 | [Serialize and Deserialize a Binary Tree](https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_SerializeAndDeserializeABinaryTree.java) |
-| 6 | [Inorder Traversal](https://practice.geeksforgeeks.org/problems/inorder-traversal/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_InorderTraversal.java) |
-| 7 | [Inorder Traversal](https://practice.geeksforgeeks.org/problems/inorder-traversal/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_InorderTraversal.py) |
+| 3 | [Search in Rotated Sorted Array](https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SearchInRotatedSortedArray.java) |
+| 4 | [Size of a Complete Binary Tree](https://practice.geeksforgeeks.org/problems/count-number-of-nodes-in-a-binary-tree/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SizeOfACompleteBinaryTree.java) |
+| 5 | [Burning Tree](https://practice.geeksforgeeks.org/problems/burning-tree/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_BurningTree.java) |
+| 6 | [Serialize and Deserialize a Binary Tree](https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_SerializeAndDeserializeABinaryTree.java) |
+| 7 | [Inorder Traversal](https://practice.geeksforgeeks.org/problems/inorder-traversal/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_InorderTraversal.java) |
+| 8 | [Inorder Traversal](https://practice.geeksforgeeks.org/problems/inorder-traversal/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_InorderTraversal.py) |
 <!-- COMMITDSA_END -->
