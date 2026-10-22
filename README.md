@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 0 | 0 | 0 | 0 | - |
-| GeeksforGeeks | 12 | 0 | 8 | 2 | 2 |
-| **Total** | **12** | **0** | **8** | **2** | **2** |
+| GeeksforGeeks | 13 | 0 | 9 | 2 | 2 |
+| **Total** | **13** | **0** | **9** | **2** | **2** |
 
 ## Solved Problems
 
@@ -23,8 +23,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 6 | [Search in Rotated Sorted Array](https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SearchInRotatedSortedArray.java) |
 | 7 | [Single Among Doubles in a Sorted](https://practice.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array0624/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SingleAmongDoublesInASorted.java) |
 | 8 | [Size of a Complete Binary Tree](https://practice.geeksforgeeks.org/problems/count-number-of-nodes-in-a-binary-tree/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SizeOfACompleteBinaryTree.java) |
-| 9 | [Burning Tree](https://practice.geeksforgeeks.org/problems/burning-tree/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_BurningTree.java) |
-| 10 | [Serialize and Deserialize a Binary Tree](https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_SerializeAndDeserializeABinaryTree.java) |
-| 11 | [Inorder Traversal](https://practice.geeksforgeeks.org/problems/inorder-traversal/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_InorderTraversal.java) |
-| 12 | [Inorder Traversal](https://practice.geeksforgeeks.org/problems/inorder-traversal/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_InorderTraversal.py) |
+| 9 | [Smallest Divisor](https://practice.geeksforgeeks.org/problems/smallest-divisor/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SmallestDivisor.java) |
+| 10 | [Burning Tree](https://practice.geeksforgeeks.org/problems/burning-tree/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_BurningTree.java) |
+| 11 | [Serialize and Deserialize a Binary Tree](https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_SerializeAndDeserializeABinaryTree.java) |
+| 12 | [Inorder Traversal](https://practice.geeksforgeeks.org/problems/inorder-traversal/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_InorderTraversal.java) |
+| 13 | [Inorder Traversal](https://practice.geeksforgeeks.org/problems/inorder-traversal/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_InorderTraversal.py) |
 <!-- COMMITDSA_END -->
